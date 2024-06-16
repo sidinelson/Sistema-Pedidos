@@ -23,7 +23,7 @@ O projeto é uma API construída usando **Java 17, Java Spring, MYSQL e H2 as th
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Fernanda-Kipper/auth-api.git
+git clone https://github.com/sidinelson/Sistema-Pedidos.git
 ```
 
 2. Instalar dependências no Maven
